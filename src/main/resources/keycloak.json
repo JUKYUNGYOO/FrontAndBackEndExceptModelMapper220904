@@ -1,0 +1,10 @@
+{
+  "realm": "javatechie",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "external",
+  "resource": "springboot-keycloak",
+  "credentials": {
+    "secret": "EtQowb638QkKxTcVdIpeCbAPgnuh9uRT"
+  },
+  "confidential-port": 0
+}
